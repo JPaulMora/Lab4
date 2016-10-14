@@ -1,0 +1,16 @@
+EJERCICIO 3:
+
+-Crear una nueva clase llamada AlarmaEmergencia con Alarma como clase padre.
+-Crear el metodo m1 que imprima el mensaje "emergencia 1"
+-Crear el metodo m2 que llame a super.m1() y que despues imprima "timbre 1"
+-Crear el metodo toString que llame a super.toString() con la palabra "emergencia" antes del mensaje original.
+
+EJERCICIO 4:
+
+-Crear una clase Soldado que tenga la clase Militar como padre.
+-Crear Metodo getHoras() que devuelva super.getHoras*2
+-Crear Método getSalario() que devuelva super.getSalario - 10,000
+-Crear metodo getDiasVacaciones() que devuelva los días originales -5
+-Crear Metodo recibeOrden() que imprima un mensaje del soldado.
+
+-Crear clase Driver (MDriver) que demuestra el uso de la herencia.
